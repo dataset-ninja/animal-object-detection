@@ -38,7 +38,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 PAPER: Optional[str] = None
 CITATION_URL: Optional[str] = "https://universe.roboflow.com/animal-detection-yvpsn/animal-object-detection-gbwme/dataset/2/download"
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Roboflow community"
-ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://universe.roboflow.com/animal-detection-yvpsn/animal-object-detection-gbwme"
+ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://universe.roboflow.com/animal-detection-yvpsn"
 TAGS: List[str] = None
 
 ##################################
